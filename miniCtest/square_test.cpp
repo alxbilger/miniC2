@@ -13,5 +13,5 @@ TEST(square, squareOne)
 
 TEST(square, squareTwelve)
 {
-    EXPECT_EQ(square(12), 142);
+    EXPECT_EQ(square(12), 144);
 }
